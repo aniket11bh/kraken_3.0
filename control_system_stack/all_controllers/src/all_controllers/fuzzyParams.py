@@ -29,7 +29,7 @@ io_ranges = [  # range of e
                # range of d_e
               [-180,180],
                # range of u
-              [-10,10]
+              [-100,100]
             ]
 
 mf_types = ['trimf','trimf','trimf']
